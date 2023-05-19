@@ -1,0 +1,172 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-05-07T14:52:52.323Z",
+        "before": [
+          {
+            "result": {
+              "duration": 22577876900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.usa.hooks.Hook.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "user able to select the product, add to cart, add shipping information, place order, \u0026 verify the order confirmation number",
+        "description": "",
+        "id": "user-able-to-purchase-the-product-and-verify-the-order-confirmation;user-able-to-select-the-product--add-to-cart--add-shipping-information--place-order--\u0026-verify-the-order-confirmation-number",
+        "after": [
+          {
+            "result": {
+              "duration": 873672000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.usa.hooks.Hook.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8363450100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user able to login the application",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_login_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2671956600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user able to select Jackets from Men module",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_select_jackets_from_men_module()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6823535200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user able to select a Jacket product\u0027s size, color, quantity",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_select_a_jacket_product_s_size_color_quantity()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 850285400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user able to click add to cart button",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_click_add_to_cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5354526300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user able to click on the shopping cart pop-up",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_click_on_the_shopping_cart_pop_up()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3909248700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user able to click on the proceed to checkout",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_click_on_the_proceed_to_checkout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9910496900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user able to add shipping information",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_add_shipping_information()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4114730400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user able to select shipping method radial button and click on next button",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_select_shipping_method_radial_button_and_click_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11313757300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user able to click on the place order button",
+            "match": {
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_click_on_the_place_order_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3373637300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user able to verify the confirmation message \"Thank you for your purchase!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Thank you for your purchase!\"",
+                  "offset": 45
+                }
+              ],
+              "location": "com.usa.stepDefination.StepDefination.user_able_to_verify_the_confirmation_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "user able to purchase the product and verify the order confirmation",
+    "description": "Description \"optional\"",
+    "id": "user-able-to-purchase-the-product-and-verify-the-order-confirmation",
+    "keyword": "Feature",
+    "uri": "file:Features/scenerio.feature",
+    "tags": []
+  }
+]

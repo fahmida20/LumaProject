@@ -1,0 +1,194 @@
+2023-04-27 18:09:26,952 - QA Lead -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-27 18:09:27,058 - QA Lead -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-04-27 18:17:01,146 - Automation Engineer: Fahmida -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-27 18:17:01,176 - Automation Engineer: Fahmida -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-04-27 18:22:30,228 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-27 18:22:30,234 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-04-27 18:22:33,689 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 18:22:33,721 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 18:23:01,206 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-04-27 18:23:19,474 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-04-27 18:23:19,975 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-04-27 18:23:20,287 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-04-27 18:23:22,065 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-04-27 18:23:27,288 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-04-27 18:23:27,802 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-04-27 18:23:28,215 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-04-27 18:23:29,313 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-04-27 18:23:29,535 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-04-27 18:24:10,826 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-04-27 18:25:43,022 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-27 18:25:43,029 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-04-27 18:25:43,401 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 18:25:43,440 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 18:25:57,502 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-04-27 18:26:03,218 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-04-27 18:26:03,445 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-04-27 18:26:03,711 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-04-27 18:26:07,453 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-04-27 18:26:09,105 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-04-27 18:26:09,541 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-04-27 18:26:09,812 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-04-27 18:26:10,004 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-04-27 18:26:10,204 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-04-27 18:26:26,008 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-04-27 18:53:28,614 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-27 18:53:28,625 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-04-27 18:53:28,978 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 18:53:29,024 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 18:53:43,806 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-04-27 18:53:48,185 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-04-27 18:53:48,688 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-04-27 18:53:49,037 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-04-27 18:53:51,084 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-04-27 18:53:52,625 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-04-27 18:53:53,272 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-04-27 18:53:53,521 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-04-27 18:53:53,915 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-04-27 18:53:54,298 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-04-27 18:53:57,735 - Automation Engineer: -INFO - >>>>>>User able to click on Proceed To CheckOut button<<<<<<<
+2023-04-27 18:54:05,244 - Automation Engineer: -INFO - >>>>>>User able to add Add NewShipping Details<<<<<<<
+2023-04-27 18:54:30,204 - Automation Engineer: -INFO - >>>>>>User able to add Shipping Method and click next<<<<<<<
+2023-04-27 18:54:34,044 - Automation Engineer: -INFO - >>>>>>User able to click on PlaceOrder<<<<<<<
+2023-04-27 18:54:35,521 - Automation Engineer: -INFO - >>>>>>User able to varify the confirmation message<<<<<<<
+2023-04-27 18:54:39,144 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-04-30 23:13:47,143 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-30 23:13:47,191 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-04-30 23:13:52,653 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 23:13:52,849 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-30 23:14:21,168 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-04-30 23:14:28,173 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-04-30 23:14:28,618 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-04-30 23:14:28,852 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-04-30 23:14:30,681 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-04-30 23:14:32,917 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-04-30 23:14:34,170 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-04-30 23:14:34,599 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-04-30 23:14:35,089 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-04-30 23:14:35,362 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-04-30 23:14:39,191 - Automation Engineer: -INFO - >>>>>>User able to click on Proceed To CheckOut button<<<<<<<
+2023-04-30 23:14:43,603 - Automation Engineer: -INFO - >>>>>>User able to add Add NewShipping Details<<<<<<<
+2023-04-30 23:14:59,449 - Automation Engineer: -INFO - >>>>>>User able to add Shipping Method and click next<<<<<<<
+2023-04-30 23:15:05,995 - Automation Engineer: -INFO - >>>>>>User able to click on PlaceOrder<<<<<<<
+2023-04-30 23:15:07,705 - Automation Engineer: -INFO - >>>>>>User able to varify the confirmation message<<<<<<<
+2023-04-30 23:15:11,084 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-04-30 23:28:33,687 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-04-30 23:28:33,792 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-04-30 23:28:34,176 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-30 23:28:34,316 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-30 23:28:59,354 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-04-30 23:29:05,179 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-04-30 23:29:05,577 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-04-30 23:29:05,851 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-04-30 23:29:07,749 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-04-30 23:29:11,041 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-04-30 23:29:12,866 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-04-30 23:29:13,104 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-04-30 23:29:13,631 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-04-30 23:29:13,910 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-04-30 23:29:18,142 - Automation Engineer: -INFO - >>>>>>User able to click on Proceed To CheckOut button<<<<<<<
+2023-04-30 23:29:22,031 - Automation Engineer: -INFO - >>>>>>User able to add Add NewShipping Details<<<<<<<
+2023-04-30 23:29:35,369 - Automation Engineer: -INFO - >>>>>>User able to add Shipping Method and click next<<<<<<<
+2023-04-30 23:29:41,559 - Automation Engineer: -INFO - >>>>>>User able to click on PlaceOrder<<<<<<<
+2023-04-30 23:29:43,566 - Automation Engineer: -INFO - >>>>>>User able to varify the confirmation message<<<<<<<
+2023-04-30 23:29:47,854 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-05-03 14:46:35,685 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-05-03 14:46:35,882 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-05-03 14:46:38,207 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-03 14:46:38,345 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-03 14:47:04,019 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-05-03 14:47:13,955 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-05-03 14:47:14,658 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-05-03 14:47:14,894 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-05-03 14:47:18,152 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-05-03 14:47:20,856 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-05-03 14:47:21,896 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-05-03 14:47:22,237 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-05-03 14:47:22,536 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-05-03 14:47:22,860 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-05-03 14:47:27,187 - Automation Engineer: -INFO - >>>>>>User able to click on Proceed To CheckOut button<<<<<<<
+2023-05-03 14:47:37,583 - Automation Engineer: -INFO - >>>>>>User able to add Add NewShipping Details<<<<<<<
+2023-05-03 14:47:51,267 - Automation Engineer: -INFO - >>>>>>User able to add Shipping Method and click next<<<<<<<
+2023-05-03 14:47:57,104 - Automation Engineer: -INFO - >>>>>>User able to click on PlaceOrder<<<<<<<
+2023-05-03 14:48:31,089 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-05-03 15:42:47,892 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-05-03 15:42:47,903 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-05-03 15:42:48,331 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-03 15:42:48,373 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-03 15:43:01,891 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-05-03 15:43:08,266 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-05-03 15:43:08,489 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-05-03 15:43:08,679 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-05-03 15:43:11,171 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-05-03 15:43:13,125 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-05-03 15:43:14,378 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-05-03 15:43:14,649 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-05-03 15:43:15,120 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-05-03 15:43:15,340 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-05-03 15:43:56,644 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-05-03 15:56:10,531 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-05-03 15:56:10,542 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-05-03 15:56:14,869 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-03 15:56:14,903 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-03 15:57:01,363 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-05-03 15:57:11,319 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-05-03 15:57:11,766 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-05-03 15:57:12,097 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-05-03 15:57:13,652 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-05-03 15:57:15,527 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-05-03 15:57:16,087 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-05-03 15:57:16,343 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-05-03 15:57:16,974 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-05-03 15:57:17,232 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-05-03 15:57:21,571 - Automation Engineer: -INFO - >>>>>>User able to click on Proceed To CheckOut button<<<<<<<
+2023-05-03 15:57:26,315 - Automation Engineer: -INFO - >>>>>>User able to add Add NewShipping Details<<<<<<<
+2023-05-03 15:57:36,411 - Automation Engineer: -INFO - >>>>>>User able to add Shipping Method and click next<<<<<<<
+2023-05-03 15:57:40,290 - Automation Engineer: -INFO - >>>>>>User able to click on PlaceOrder<<<<<<<
+2023-05-03 15:57:43,287 - Automation Engineer: -INFO - >>>>>>User able to varify the confirmation message<<<<<<<
+2023-05-03 15:57:47,273 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-05-03 22:47:15,742 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-05-03 22:47:15,829 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-05-03 22:47:20,296 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-03 22:47:20,411 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-03 22:47:49,008 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-05-03 22:47:56,467 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-05-03 22:47:56,671 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-05-03 22:47:56,950 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-05-03 22:47:59,656 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-05-03 22:48:01,363 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-05-03 22:48:02,302 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-05-03 22:48:43,818 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
+2023-05-07 10:50:06,435 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-05-07 10:50:06,493 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-05-07 10:50:13,257 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-07 10:50:13,533 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-07 10:50:51,030 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-05-07 10:51:21,448 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-05-07 10:51:21,794 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-05-07 10:51:22,139 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-05-07 10:51:27,678 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-05-07 10:51:29,154 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-05-07 10:51:30,249 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-05-07 10:51:30,662 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-05-07 10:51:31,078 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-05-07 10:51:31,321 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-05-07 10:52:52,344 - Automation Engineer: -INFO - >>>>>>>>>>START AUTOMATION<<<<<<<<<<<<<
+2023-05-07 10:52:52,353 - Automation Engineer: -INFO - >>>>>>>>>>>>>Automation Statrs with Chrome browser <<<<<<<<<<<
+2023-05-07 10:52:52,797 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-07 10:52:52,843 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\iiuca\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-07 10:53:15,241 - Automation Engineer: -INFO - >>>>>>User able to login the application<<<<<<<
+2023-05-07 10:53:23,303 - Automation Engineer: -INFO - >>>>>>User able to select Men module<<<<<<<
+2023-05-07 10:53:23,607 - Automation Engineer: -INFO - >>>>>>User able to select Top module<<<<<<<
+2023-05-07 10:53:23,918 - Automation Engineer: -INFO - >>>>>>User able to select Jacket module<<<<<<<
+2023-05-07 10:53:25,975 - Automation Engineer: -INFO - >>>>>>User able to select AllJupiterJacket <<<<<<<
+2023-05-07 10:53:28,786 - Automation Engineer: -INFO - >>>>>>User able to select Jacket product size<<<<<<<
+2023-05-07 10:53:32,138 - Automation Engineer: -INFO - >>>>>>User able to select Jacket color<<<<<<<
+2023-05-07 10:53:32,443 - Automation Engineer: -INFO - >>>>>>User able to select Jacket quantity<<<<<<<
+2023-05-07 10:53:32,798 - Automation Engineer: -INFO - >>>>>>User able to click Add to Cart button<<<<<<<
+2023-05-07 10:53:33,649 - Automation Engineer: -INFO - >>>>>>User able to click ShoppingCart<<<<<<<
+2023-05-07 10:53:39,004 - Automation Engineer: -INFO - >>>>>>User able to click on Proceed To CheckOut button<<<<<<<
+2023-05-07 10:53:42,914 - Automation Engineer: -INFO - >>>>>>User able to add Add NewShipping Details<<<<<<<
+2023-05-07 10:53:52,826 - Automation Engineer: -INFO - >>>>>>User able to add Shipping Method and click next<<<<<<<
+2023-05-07 10:53:56,940 - Automation Engineer: -INFO - >>>>>>User able to click on PlaceOrder<<<<<<<
+2023-05-07 10:54:08,256 - Automation Engineer: -INFO - >>>>>>User able to varify the confirmation message<<<<<<<
+2023-05-07 10:54:11,629 - Automation Engineer: -INFO - >>>>>>>>>>>END AUTOMATION<<<<<<<<<<<<<<
